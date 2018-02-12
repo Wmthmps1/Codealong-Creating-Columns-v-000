@@ -78,6 +78,11 @@ img, video, audio{
 
 /*///// Layout */
 
+section {
+  padding: 20px;
+  margin-bottom: 20 px;
+}
+
 .wrapper {
   width=960 px;
   margin 0 auto;
