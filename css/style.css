@@ -98,3 +98,7 @@ figcaption {
 [class*="col-"] {   /*Class with col- somewhere in the name*/
   margin-left: 2%;
 }
+
+.first {
+  margin: 0;
+}
