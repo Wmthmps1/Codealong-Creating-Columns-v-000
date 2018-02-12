@@ -125,3 +125,7 @@ section {
   height: 0;
   line-height: 0;
 }
+
+#featured-property {
+  margin-bottom: 2%
+}
