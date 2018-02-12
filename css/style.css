@@ -95,6 +95,6 @@ figcaption {
  background: #ccc;
 }
 
-[class*="col-"] {
+[class*="col-"] {   /*Class with col- somewhere in the name*/
   margin-left: 2%;
 }
